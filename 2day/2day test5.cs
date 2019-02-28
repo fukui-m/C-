@@ -10,12 +10,11 @@ namespace Problem2_5
     {
         static void Main(string[] args)
         {
-            string str1, str2;
             Console.Write("文字列1を入力");
-            str1 = Console.ReadLine();
+            var firstInputValue = Console.ReadLine();
             Console.Write("文字列2を入力");
-            str2 = Console.ReadLine();
-            Console.WriteLine("文字列1+文字列2＝{0}", str1 + str2);
+            var secondInputValue = Console.ReadLine();
+            Console.WriteLine("文字列1+文字列2＝{0}", firstInputValue + secondInputValue);
         }
     }
 }
