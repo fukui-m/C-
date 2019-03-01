@@ -1,0 +1,6 @@
+C:\Users\pla\Desktop\git\gitwork\4day\4day\bin\Debug\4day.exe
+C:\Users\pla\Desktop\git\gitwork\4day\4day\bin\Debug\4day.pdb
+C:\Users\pla\Desktop\git\gitwork\4day\4day\obj\Debug\4day.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\4day\4day\obj\Debug\4day.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\4day\4day\obj\Debug\4day.exe
+C:\Users\pla\Desktop\git\gitwork\4day\4day\obj\Debug\4day.pdb
