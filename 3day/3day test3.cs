@@ -11,8 +11,8 @@ namespace Problem
         static void Main(string[] args)
         {
             Console.WriteLine("整数値を入力してください");
-            int num = int.Parse(Console.ReadLine());
-            if (num < 50)
+            int firstInputValue = int.Parse(Console.ReadLine());
+            if (firstInputValue < 50)
             {
                 Console.WriteLine("50未満です");
             }

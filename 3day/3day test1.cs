@@ -12,8 +12,8 @@ namespace Problem
         static void Main(string[] args)
         {
             Console.WriteLine("整数値を入力してください");
-            int num = int.Parse(Console.ReadLine());
-            if (num==3)
+            int firstInputValse = int.Parse(Console.ReadLine());
+            if (firstInputValse==3)
             {
                 Console.WriteLine("3です");
             }
