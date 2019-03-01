@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,24 +12,28 @@ namespace _4day
         {
             var firstInputValue = 1;
             var SecondInputValue = 9;
-            for (int i = firstInputValue; i <= 10; i++)
+            var minInputValue = 0;
+            var maxInputValue = 10;
+            for (int i = firstInputValue; i <= maxInputValue; i++)
             {
                 Console.Write("■");
-                if (i+SecondInputValue==10)
+
+                if (i+SecondInputValue==maxInputValue)
                 {
-                    for (int j = SecondInputValue; 0 < j; j--)
+                    for (int j = SecondInputValue; minInputValue< j; j--)
                     {
                         Console.Write("□");
                     }
                 }
 
-                if (firstInputValue + SecondInputValue == 10)
+                if (i + SecondInputValue == maxInputValue && minInputValue<SecondInputValue)
                 {
                     Console.WriteLine();
                     SecondInputValue--;
-                    
+                    i = 0;
                 }
             }
+            Console.ReadLine();
         }
     }
 }
