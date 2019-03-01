@@ -30,7 +30,7 @@ namespace _4day
                 {
                     Console.WriteLine();
                     SecondInputValue--;
-                    i = 0;
+                    i = minInputValue;
                 }
             }
             Console.ReadLine();
