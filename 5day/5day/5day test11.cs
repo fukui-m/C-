@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] data = { 0, 1, 2, 3, 4, };
+            int[] data = new int[5];
             Random rnd = new Random();
             for (int i = 0;i < data.Length; i++)
             {

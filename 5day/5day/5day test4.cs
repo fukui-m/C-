@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] data = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            int[] Largedata = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            int[] Smalldata = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            int[] data = new int[10];
+            int[] Largedata = new int[10];
+            int[] Smalldata = new int[10];
             var Largenum = 0;
             var Smallnum = 0;
             Random rnd = new Random();

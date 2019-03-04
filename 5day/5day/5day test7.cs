@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] data = { 0, 1, 2, 3, 4 };
-            int[] dicedata = { 0, 1, 2, 3, 4 };
+            int[] data = new int[5];
+            int[] dicedata = new int[5];
             var dicecount = 0;
             var sumInputValue = 0;
             Random rnd = new Random();

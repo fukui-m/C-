@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] data = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            int[] Odddata = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            int[] Evendata = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            int[] data = new int[10];
+            int[] Odddata = new int[10];
+            int[] Evendata = new int[10];
             var Oddnum=0;
             var Evennum = 0;
             Random rnd = new Random();

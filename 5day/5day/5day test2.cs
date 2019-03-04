@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] box = { 0, 1, 2, 3 };
+            int[] data = new int[4];
             double[] firstInputvalue = { 0.2, -5.1, 3.2, 1.8 };
-            for(int i = 0; i < box.Length; i++)
+            for(int i = 0; i < data.Length; i++)
             {
                 Console.Write("d[{0}]={1} ", i, firstInputvalue[i]);
             }

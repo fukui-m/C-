@@ -10,10 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int []box = { 0, 1, 2, 3, 4, 5, 6 };
+            int []data = new int[7];
             Random rnd = new Random();
             
-            for (int i = 0;i < box.Length; i++){
+            for (int i = 0;i < data.Length; i++){
                 int dice = rnd.Next(1, 11);
                 Console.Write("a[{0}]={1} ", i, dice);
             }
