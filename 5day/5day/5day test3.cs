@@ -20,7 +20,7 @@ namespace ConsoleApp1
             {
                 int dice = rnd.Next(1,101);
                 Console.Write("{0} ",dice);
-                if (dice % 2 == 0.0) 
+                if (dice % 2 == 0) 
                 {
                     Evendata[Evennum] = dice;
                     Evennum++;
