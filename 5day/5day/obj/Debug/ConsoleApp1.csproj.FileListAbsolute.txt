@@ -1,0 +1,6 @@
+C:\Users\pla\Desktop\git\gitwork\5day\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\pla\Desktop\git\gitwork\5day\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\pla\Desktop\git\gitwork\5day\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\5day\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\5day\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\pla\Desktop\git\gitwork\5day\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
