@@ -11,7 +11,7 @@ namespace _6day
         static void Main(string[] args)
         {
             _6day_test1_2 m = new _6day_test1_2();
-            int a = 5, b = 2,c=1,maxInputValue=0,minInputValue=a ;
+            int a = 5, b = 2,c=1 ;
             Console.WriteLine("{0}と{1}と{2}のうち、最大のものは{3}", a, b,c,m.Max(a,b,c,maxInputValue));
             Console.WriteLine("{0}と{1}と{2}のうち、最小のものは{3}", a, b,c,m.Min(a,b,c,minInputValue));
         }
