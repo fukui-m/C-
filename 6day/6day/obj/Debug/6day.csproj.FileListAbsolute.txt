@@ -1,0 +1,6 @@
+C:\Users\pla\Desktop\git\gitwork\6day\6day\obj\Debug\6day.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\6day\6day\obj\Debug\6day.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\6day\6day\bin\Debug\6day.exe
+C:\Users\pla\Desktop\git\gitwork\6day\6day\bin\Debug\6day.pdb
+C:\Users\pla\Desktop\git\gitwork\6day\6day\obj\Debug\6day.exe
+C:\Users\pla\Desktop\git\gitwork\6day\6day\obj\Debug\6day.pdb
