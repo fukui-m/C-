@@ -1,0 +1,7 @@
+C:\Users\pla\Desktop\git\gitwork\7day\7day\bin\Debug\7day.exe.config
+C:\Users\pla\Desktop\git\gitwork\7day\7day\bin\Debug\7day.exe
+C:\Users\pla\Desktop\git\gitwork\7day\7day\bin\Debug\7day.pdb
+C:\Users\pla\Desktop\git\gitwork\7day\7day\obj\Debug\7day.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\7day\7day\obj\Debug\7day.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\7day\7day\obj\Debug\7day.exe
+C:\Users\pla\Desktop\git\gitwork\7day\7day\obj\Debug\7day.pdb
