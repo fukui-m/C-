@@ -8,14 +8,22 @@ namespace _6day
 {
     class _6day_test3_2
     {
-        public double r;
-        public double Circumference()
+        private readonly decimal Pi = 3.14m;
+
+        public decimal Radius { get; set; }
+        public decimal Circumference
         {
-            return 2 * 3.14 * r;
+            get
+            {
+                return 2 * Pi * Radius;
+            }
         }
-        public double Area()
+        public decimal Area
         {
-            return r * r * 3.14;
+            get
+            {
+                return Radius * Radius * Pi;
+            }
         }
     }
 }

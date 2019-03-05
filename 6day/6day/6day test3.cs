@@ -11,9 +11,9 @@ namespace _6day
         static void Main(string[] args)
         {
             _6day_test3_2 c = new _6day_test3_2();
-            c.r = 4.0;
-            Console.WriteLine("半径" + c.r + "の円の円周の長さは" + c.Circumference());
-            Console.WriteLine("半径" + c.r + "の面積の大きさは" + c.Area());
+            c.Radius = 4;
+            Console.WriteLine("半径" + c.Radius + "の円の円周の長さは" + c.Circumference);
+            Console.WriteLine("半径" + c.Radius + "の面積の大きさは" + c.Area);
         }
     }
 }
