@@ -21,7 +21,7 @@ namespace Practical_2day
             Console.WriteLine("a = "+firstInputValue);
             Console.WriteLine("b = " + secondInputValue);
             Console.WriteLine("c = " + threeInputValue);
-            Console.WriteLine("{0} * {1} * {2} = {3}", firstInputValue, secondInputValue, threeInputValue, Mul(firstInputValue, secondInputValue, threeInputValue));
+            Console.WriteLine("a * b * c = {0}", Mul(firstInputValue, secondInputValue, threeInputValue));
             Console.ReadLine();
         }
     }
