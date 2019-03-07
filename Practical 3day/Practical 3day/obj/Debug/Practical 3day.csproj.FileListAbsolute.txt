@@ -1,0 +1,7 @@
+C:\Users\pla\Desktop\git\gitwork\Practical 3day\Practical 3day\bin\Debug\Practical 3day.exe.config
+C:\Users\pla\Desktop\git\gitwork\Practical 3day\Practical 3day\bin\Debug\Practical 3day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 3day\Practical 3day\bin\Debug\Practical 3day.pdb
+C:\Users\pla\Desktop\git\gitwork\Practical 3day\Practical 3day\obj\Debug\Practical 3day.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 3day\Practical 3day\obj\Debug\Practical 3day.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 3day\Practical 3day\obj\Debug\Practical 3day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 3day\Practical 3day\obj\Debug\Practical 3day.pdb
