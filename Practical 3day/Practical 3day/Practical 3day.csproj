@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Practical 3day study3-2.cs" />
-    <Compile Include="Practical 3day study3-3.cs" />
-    <Compile Include="Practical 3day study3.cs" />
+    <Compile Include="Practical 3day test2-2.cs" />
+    <Compile Include="Practical 3day test2-3.cs" />
+    <Compile Include="Practical 3day test2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
