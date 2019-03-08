@@ -11,7 +11,12 @@ namespace Practical_4day
         protected double width = 0;
         protected double heigth = 0;
         protected double area = 0;
-
+        
+        public PlaneFigure(double width,double heigth)
+        {
+            this.width = width;
+            this.heigth = heigth;
+        }
 
         public double Width
         {

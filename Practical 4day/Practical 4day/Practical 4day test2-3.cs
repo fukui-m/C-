@@ -8,10 +8,8 @@ namespace Practical_4day
 {
     class Box : PlaneFigure
     {
-        public Box(double width,double heigth)
+        public Box(double width,double heigth):base(width,heigth)
         {
-            this.width = width;
-            this.heigth = heigth;
         }
         
         public override double Area

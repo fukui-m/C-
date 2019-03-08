@@ -8,10 +8,8 @@ namespace Practical_4day
 {
     class Triangle : PlaneFigure
     {
-        public Triangle(double width, double heigth)
+        public Triangle(double width, double heigth) : base(width, heigth)
         {
-            this.width = width;
-            this.heigth = heigth;
         }
        
         public override double Area
