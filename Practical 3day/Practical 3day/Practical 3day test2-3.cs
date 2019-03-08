@@ -10,11 +10,11 @@ namespace Practical_3day
     {
         public decimal Mul()
         {
-            return number1 * number2;
+            return Number1 * Number2;
         }
         public decimal Div()
         {
-            return number1 / number2;
+            return Number1 / Number2;
         }
     }
 }
