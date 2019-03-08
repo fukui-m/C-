@@ -8,8 +8,8 @@ namespace Practical_3day
 {
     class FundCalc
     {
-        private decimal number1 = 0;
-        private decimal number2 = 0;
+        protected decimal number1 = 0;
+        protected decimal number2 = 0;
         public decimal Number1
         {
             set { number1 = value; }
@@ -28,13 +28,6 @@ namespace Practical_3day
         {
             return number1 - number2;
         }
-        public decimal Mul()
-        {
-            return number1 * number2;
-        }
-        public decimal Div()
-        {
-            return number1 / number2;
-        }
+      
     }
 }
