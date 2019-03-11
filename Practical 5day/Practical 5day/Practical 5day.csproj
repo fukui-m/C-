@@ -43,11 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Practical 5day test1-2.cs" />
-    <Compile Include="Practical 5day test1-3.cs" />
-    <Compile Include="Practical 5day test1-4.cs" />
-    <Compile Include="Practical 5day test1-5.cs" />
-    <Compile Include="Practical 5day test1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
