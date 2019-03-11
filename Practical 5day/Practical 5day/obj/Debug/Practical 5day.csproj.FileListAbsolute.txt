@@ -1,0 +1,7 @@
+C:\Users\pla\Desktop\git\gitwork\Practical 5day\Practical 5day\bin\Debug\Practical 5day.exe.config
+C:\Users\pla\Desktop\git\gitwork\Practical 5day\Practical 5day\bin\Debug\Practical 5day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 5day\Practical 5day\bin\Debug\Practical 5day.pdb
+C:\Users\pla\Desktop\git\gitwork\Practical 5day\Practical 5day\obj\Debug\Practical 5day.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 5day\Practical 5day\obj\Debug\Practical 5day.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 5day\Practical 5day\obj\Debug\Practical 5day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 5day\Practical 5day\obj\Debug\Practical 5day.pdb
