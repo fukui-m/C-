@@ -1,0 +1,7 @@
+C:\Users\pla\Desktop\git\gitwork\Practical 6day\Practical 6day\bin\Debug\Practical 6day.exe.config
+C:\Users\pla\Desktop\git\gitwork\Practical 6day\Practical 6day\bin\Debug\Practical 6day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 6day\Practical 6day\bin\Debug\Practical 6day.pdb
+C:\Users\pla\Desktop\git\gitwork\Practical 6day\Practical 6day\obj\Debug\Practical 6day.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 6day\Practical 6day\obj\Debug\Practical 6day.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 6day\Practical 6day\obj\Debug\Practical 6day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 6day\Practical 6day\obj\Debug\Practical 6day.pdb
