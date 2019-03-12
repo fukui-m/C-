@@ -1,0 +1,7 @@
+C:\Users\pla\Desktop\git\gitwork\Practical 7day\Practical 7day\bin\Debug\Practical 7day.exe.config
+C:\Users\pla\Desktop\git\gitwork\Practical 7day\Practical 7day\bin\Debug\Practical 7day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 7day\Practical 7day\bin\Debug\Practical 7day.pdb
+C:\Users\pla\Desktop\git\gitwork\Practical 7day\Practical 7day\obj\Debug\Practical 7day.csprojAssemblyReference.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 7day\Practical 7day\obj\Debug\Practical 7day.csproj.CoreCompileInputs.cache
+C:\Users\pla\Desktop\git\gitwork\Practical 7day\Practical 7day\obj\Debug\Practical 7day.exe
+C:\Users\pla\Desktop\git\gitwork\Practical 7day\Practical 7day\obj\Debug\Practical 7day.pdb
