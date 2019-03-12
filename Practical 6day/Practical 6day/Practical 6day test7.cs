@@ -18,7 +18,7 @@ namespace Practical_6day
                 dice = rnd.Next(0, 11);
                 Console.WriteLine("0～10の値を出力:{0}", dice);
                 numList.Add(dice);
-                IOrderedEnumerable<int> orederedNumList = numList.OrderBy(value => value); 
+                var orederedNumList = numList.OrderBy(value => value); 
                 if (dice > 0)
                 {
                     Console.Write("出力された数:");
