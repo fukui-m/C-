@@ -11,6 +11,7 @@ namespace Practical_6day
          static void Main(string[] args)
         {
             var numConvision = new Dictionary<String, String>();
+            var numCalc = new List<string>();
             numConvision["1"] = "一";
             numConvision["2"] = "二";
             numConvision["3"] = "三";
@@ -22,20 +23,30 @@ namespace Practical_6day
             numConvision["9"] = "九";
             numConvision["0"] = "○";
             Console.Write("整数の値を入力してください:");
-            var numInputvalue = Console.ReadLine();
-            var numCount = numInputvalue.Length;
-            numInputvalue.ToList();
+            var numInputvalue = int.Parse(Console.ReadLine());
+            var numCount = numInputvalue.ToString().Length;
+            int numDigitsCalc,conmaCount= 0;
+            int numDigits = 1;
 
             Console.Write("変換結果:");
-            for(int i = 0;i< numCount; i++)
+            for (int i = 0; i < numCount; i++)
             {
-                var numbers = numConvision.FirstOrDefault(x => x.key == numInputvalue);
-                
-                    Console.Write("{0}", numConvision[numInputvalue]);
-                
+                if (conmaCount==3 )
+                {
+                    numCalc.Add(",");
+                    conmaCount = 0;
+                }
+                numDigits = numDigits * 10;
+                numDigitsCalc = numInputvalue % numDigits;
+                char numKey = numDigitsCalc.ToString()[0];
+                numCalc.Add(numConvision[numKey.ToString()]);
+                conmaCount++;
             }
+            numCalc.Reverse();
+            numCalc.ForEach(x => Console.Write("{0}", x));
             Console.ReadLine();
         }
     }
 }
+
 
